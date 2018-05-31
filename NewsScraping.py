@@ -6,7 +6,7 @@ from lxml import html
 from bs4 import BeautifulSoup
 
 #url for link going to be extract
-url = "https://aspermontlimited-editorial.cmail20.com/t/ViewEmail/j/89EB7EDD6D15B6662540EF23F30FEDED/A708CAEF102CF7A66707B176AE29F890"
+url = "//mypath"
 
 #request url access
 response = requests.get(url)
